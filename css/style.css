@@ -1,0 +1,14 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30%;
+}
+
+.imagen{
+    border-style: solid;
+    border-width: 30px 0px 30px 0px;
+
+}
+a{
+    color: green;
+}
