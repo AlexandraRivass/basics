@@ -3,7 +3,9 @@ body{
     margin-right: auto;
     max-width: 30%;
 }
-
+.img-container {
+    text-align: center;
+  }
 .imagen{
     border-style: solid;
     border-width: 30px 0px 30px 0px;
